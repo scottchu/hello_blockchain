@@ -1,0 +1,8 @@
+{
+  "name": "hello_blockchain",
+  "version": "1.0.0",
+  "description": "Week 2 assignment",
+  "main": "index.js",
+  "author": "Scott Chu <scottchu@icloud.com>",
+  "license": "MIT"
+}
