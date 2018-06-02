@@ -4,5 +4,9 @@
   "description": "Week 2 assignment",
   "main": "index.js",
   "author": "Scott Chu <scottchu@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.34"
+  }
 }
